@@ -8,11 +8,11 @@ const CAMPAIGN_CONFIG = {
   timezone: "Asia/Kolkata",
 
   // Replace with your actual GitHub Pages URL.
-  campaignQRUrl: "https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/reveal.html",
+  campaignQRUrl: "https://NupoorsCode.github.io/QRPorta-Launch/reveal.html",
 
   // Replace these with QRporta's real URLs.
-  qrportaWebsiteUrl: "https://YOUR-QRPORTA-WEBSITE.com",
-  demoUrl: "https://YOUR-QRPORTA-WEBSITE.com/demo"
+  qrportaWebsiteUrl: "https://staging.qrporta.com/",
+  demoUrl: "https://bookings.cloud.microsoft/book/QrPorta@ultralinkit.com/?ismsaljsauthenabled"
 };
 
 const $ = (selector, root = document) => root.querySelector(selector);
