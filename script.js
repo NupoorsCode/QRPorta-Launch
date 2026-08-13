@@ -12,7 +12,7 @@ const CAMPAIGN_CONFIG = {
 
   // Replace these with QRporta's real URLs.
   qrportaWebsiteUrl: "https://staging.qrporta.com/",
-  demoUrl: "https://bookings.cloud.microsoft/book/QrPorta@ultralinkit.com/?ismsaljsauthenabled"
+  demoUrl: "https://staging.qrporta.com/"
 };
 
 const $ = (selector, root = document) => root.querySelector(selector);
